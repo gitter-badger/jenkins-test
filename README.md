@@ -1,8 +1,18 @@
-Jenins test
+Jeknins test
 ============
 
 This repository contains some sample projects to test Github & Jenkins integration:
 
- c++ code (one good build, one failing buid)
+The current examples are all 'Makefile' based.
+The build status is automatically added to the commits using 'git notes'.
+
+c++ code
+--------
+ * "c++/helloworld.cpp": good build
+ * "failing_c++/helloworld.cpp": failing build (g++ build error)
  
- LaTeX code (one goed build, one failing build)
+LaTeX documents
+---------------
+
+ * "latex/helloworld.tex": good build
+ * "failing_latex/helloworld.tex": failing build (pdflatex build error)
