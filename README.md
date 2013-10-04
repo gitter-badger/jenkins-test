@@ -15,4 +15,5 @@ LaTeX documents
 ---------------
 
  * "latex/helloworld.tex": good build
- * "failing_latex/helloworld.tex": failing build (pdflatex build error)
+ * 
+ live demo test
