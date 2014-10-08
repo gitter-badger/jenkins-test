@@ -1,5 +1,6 @@
 Jenkins testing repository
 ==========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jeroendoggen/jenkins-test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository contains some sample projects to test Github & Jenkins integration.
 
